@@ -8,7 +8,7 @@ from calculator import soustraction
 def test_soustraction():
     assert soustraction(10,8) == 2
 
-def test_soustraction():
+def test_soustraction2():
     assert soustraction(18,8) == 10
 
 from calculator import division
