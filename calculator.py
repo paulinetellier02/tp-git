@@ -5,4 +5,3 @@ def soustraction(a, b):
 def addition(a,b):
   result = a+b
   return result
-
